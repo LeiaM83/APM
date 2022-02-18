@@ -10,5 +10,5 @@ import { Component } from '@angular/core';
     `
 })
 export class AppComponent {
-  pageTitle: string = "Selina's Store";
+  pageTitle: string = "Selina's Store: For Bats and Cats";
 }
